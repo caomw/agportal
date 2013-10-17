@@ -1,0 +1,2 @@
+1- password hashing check user
+2- check if logged in doesn't work properly
