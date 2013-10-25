@@ -1,7 +1,7 @@
 <?php
 echo $this->Html->css('font-awesome.min',null,array('inline'=>false));
 echo $this->Html->script(
-	'http://code.jquery.com/jquery-1.9.1.min.js',
+	'https://code.jquery.com/jquery-1.9.1.min.js',
 	array('inline'=>false));
 echo $this->Html->script(
 	'jquery.slides',
